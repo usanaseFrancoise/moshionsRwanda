@@ -1,0 +1,21 @@
+ollection{
+    display:flex;
+    justify-content:flex-end;
+    flex-direction: row;
+    margin-left:60px;
+  }
+  .pages{
+    color:black;
+    font-weight:bold;
+    text-align:center;
+  }
+  h4{
+    margin:10px;
+    text-align:center;
+    background-color:black;
+    color:white;
+    
+  }
+  img:hover{
+    transform:scale(1.2);
+  }
